@@ -13,4 +13,7 @@ print("Sua idadee é {}".format(idade))
 dobro = idade * 2
 print("O dobro da idade informada é {}".format(dobro))
 
-
+#Estrutura condicional - o famoso "SE" (if)
+#Se a pessoa for maior de idade, mostre "Você é maior de idade, ótimo! Já pode beber ou dirigir"
+if idade >= 18:
+  print("Você é maior de idade, ótimo! Já pode beber ou dirigir")
