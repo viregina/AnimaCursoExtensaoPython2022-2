@@ -17,3 +17,5 @@ print("O dobro da idade informada é {}".format(dobro))
 #Se a pessoa for maior de idade, mostre "Você é maior de idade, ótimo! Já pode beber ou dirigir"
 if idade >= 18:
   print("Você é maior de idade, ótimo! Já pode beber ou dirigir")
+
+
